@@ -117,22 +117,12 @@ Comportamento do JavaScript que move declarações para o topo do escopo durante
 
 ---
 
-## 💡 Dicas de Aprendizado
-
-- 📖 Leia o código com atenção
-- ✏️ Modifique os exemplos
-- 🧪 Teste diferentes valores
-- 💬 Coloque comentários no seu código
-- 🔄 Repita os exercícios
-
----
 
 ## 📝 Notas Importantes
 
 - Estes são **exercícios educacionais** da disciplina de Desenvolvimento Web
 - O código está estruturado para fins de **aprendizado progressivo**
 - Recomenda-se estudar os arquivos **em ordem numérica**
-- Não hesite em **modificar e experimentar** com o código
 
 ---
 
@@ -141,3 +131,4 @@ Comportamento do JavaScript que move declarações para o topo do escopo durante
 - [MDN Web Docs - JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [JavaScript Info](https://javascript.info/)
 - [ECMAScript Specification](https://tc39.es/ecma262/)
+
